@@ -36,4 +36,7 @@ salas de espera
 ______________________________________________________________
 Soluciones a los vicios de casinos online de menores
 ______________________________________________________________
+-> Serivico de analytics para empresas, ciencia de datos con
+powerBI principalmente, tener en cuenta el pago de la suscripción
+________________________________________________________________
 
