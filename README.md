@@ -28,4 +28,7 @@ salas de espera
 ______________________________________________________________
 Soluciones a los vicios de casinos online de menores
 ______________________________________________________________
-
+App de documentacion y seguimiento de obra, libro de obra,recursos
+humanos, gantt diagramacion de actividades, responsabilidades, puntos
+conflictivos de obra, clientes, proveedores, contratistas,
+parte diario...
