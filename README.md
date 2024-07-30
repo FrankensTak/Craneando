@@ -17,6 +17,9 @@ ______________________________________________________________
 --> Soporte venta sexshop tabues que se yo esa onda
 o venta de alcohol via app
 ______________________________________________________________
-
+Plataforma soporte venta de productos artistas plasticos y 
+audiovisuales locales, sponsors, publicidad de eventos culturales,
+contacto con salas culturales, museos, etc
+______________________________________________________________
 
 
