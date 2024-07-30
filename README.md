@@ -3,6 +3,10 @@ Craneando
 ______________________________________________________________
 COMO PRIMER PASO DEBERIAMOS CREAR PAGINA WEB PROPIA DE VENTA DE 
 SERVICIOS SOFTWARE
+idea principal es que nosotros demos asesoria a pequeñas y 
+medianas empresas de la ciudad de córdoba para la digitalización
+de procesos en los negocios, o digitalizacion de negocios a partir
+de sus procesos
 -- aplicacion para servicios cordoba
 ______________________________________________________________
 --> aplicacion para soporte a la venta de alarmas 
