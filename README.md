@@ -21,5 +21,10 @@ Plataforma soporte venta de productos artistas plasticos y
 audiovisuales locales, sponsors, publicidad de eventos culturales,
 contacto con salas culturales, museos, etc
 ______________________________________________________________
+Buscar ideas de pequeñas funcionalidades que puedan ser vendidas 
+a empresas que lo necesiten utilizar
+ej: algoritmo de camara de seguridad u widget para pantallas de 
+salas de espera
+______________________________________________________________
 
 
