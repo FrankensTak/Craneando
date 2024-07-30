@@ -26,5 +26,6 @@ a empresas que lo necesiten utilizar
 ej: algoritmo de camara de seguridad u widget para pantallas de 
 salas de espera
 ______________________________________________________________
-
+Soluciones a los vicios de casinos online de menores
+______________________________________________________________
 
