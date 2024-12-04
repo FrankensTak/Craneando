@@ -1,0 +1,15 @@
+ -- En este documento vamos a dar un aproximado del paso a paso a seguir con los clientes que se comuniquen con nosotros
+ LA IDEA INICIAL SERIA DAR SOLUCIONES DEL TIPO WEB CON EL STACK QUE MANEJAMOS RELATIVAMENTE BIEN --- MERN (queda pendiente aprender MONGO DB para utilizar como BDD)
+
+ 1 -  El cliente se comunica con nosotros mediante el formulario de la pagina web que nosotros propusimos o via instagram, facebook, etc. La idea es tener varias redes sociales y canales de comunicacion para 
+ abarcar mayor cantidad de clientes ya que nuestro target son PYMES, no grandes empresas las cuales la mayoria ya esta digitalizada
+ 2 - Nosotros respondemos la solicitud con una resppuesta personalida (no automatizada) para que asi el cliente sienta que es atendido por un humano 
+ ----> INSERTAR MENSAJE PERSONALIZADO
+ 3 - Coordinamos una reunion primera donde se llevara a cabo la introduccion al cliente a que es digitalizar y QUE soluciones proponemos de manera sencilla cosa que lo entienda
+ --> ELICITACIÓN DE REQUERIMIENTOS
+ 4 - Coordinamos una segunda reunion presentando un pequeño MVP en base a las necesidades del cliente presentadas en la primer reunion, y proponemos una solucion con sus costos
+------- DEFINIR SI VAMOS A TRABAJAR COMO SAS (Software As A Service) o simplemente venta de producto final --------------------------------------------------------------------------
+5 - Cerrar cliente, acordar tiempos de desarrollo y de pago estimados, si no se cierra el cliente porque no le atrajo el MVP creado, geestionar otra reunion, rehacer el MPV y volver a repetir el proceso
+(esto se hará un maximo de dos veces, a menos que el cliente este convencido de que va a contratar el servicio tarde o temprano)
+6 - Primera entrega del producto terminado, buscar feedback del cliente, e iniciar pruebas.
+7 - Poner en produccion --(COMO VAMOS A GESTIONAR EL ESPACIO EN LAS BASES DE DATOS)
